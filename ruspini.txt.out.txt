@@ -1,0 +1,793 @@
+
+RUN  1
+------
+iteration 1 SSE: 1.73959
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  2
+------
+iteration 1 SSE: 6.28165
+iteration 2 SSE: 1.68775
+iteration 3 SSE: 0.81777
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  3
+------
+iteration 1 SSE: 5.58983
+iteration 2 SSE: 3.29301
+iteration 3 SSE: 3.17453
+iteration 4 SSE: 3.17453
+
+RUN  4
+------
+iteration 1 SSE: 5.19645
+iteration 2 SSE: 3.45194
+iteration 3 SSE: 3.41111
+iteration 4 SSE: 3.4095
+iteration 5 SSE: 3.4095
+
+RUN  5
+------
+iteration 1 SSE: 5.94569
+iteration 2 SSE: 3.1157
+iteration 3 SSE: 1.32088
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  6
+------
+iteration 1 SSE: 8.0929
+iteration 2 SSE: 2.54984
+iteration 3 SSE: 0.89804
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  7
+------
+iteration 1 SSE: 4.8691
+iteration 2 SSE: 1.60605
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  8
+------
+iteration 1 SSE: 13.683
+iteration 2 SSE: 4.04408
+iteration 3 SSE: 3.16313
+iteration 4 SSE: 3.06403
+iteration 5 SSE: 3.06012
+iteration 6 SSE: 3.06012
+
+RUN  9
+------
+iteration 1 SSE: 13.1704
+iteration 2 SSE: 2.7213
+iteration 3 SSE: 0.94998
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  10
+------
+iteration 1 SSE: 7.09516
+iteration 2 SSE: 3.00801
+iteration 3 SSE: 0.816882
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  11
+------
+iteration 1 SSE: 1.01048
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  12
+------
+iteration 1 SSE: 7.29401
+iteration 2 SSE: 3.45232
+iteration 3 SSE: 3.45172
+iteration 4 SSE: 3.45172
+
+RUN  13
+------
+iteration 1 SSE: 15.9018
+iteration 2 SSE: 4.833
+iteration 3 SSE: 0.876277
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  14
+------
+iteration 1 SSE: 9.74941
+iteration 2 SSE: 3.11966
+iteration 3 SSE: 0.938729
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  15
+------
+iteration 1 SSE: 10.4204
+iteration 2 SSE: 1.85768
+iteration 3 SSE: 0.81852
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  16
+------
+iteration 1 SSE: 11.6165
+iteration 2 SSE: 3.47785
+iteration 3 SSE: 3.43309
+iteration 4 SSE: 3.43079
+iteration 5 SSE: 3.43079
+
+RUN  17
+------
+iteration 1 SSE: 17.2543
+iteration 2 SSE: 5.20608
+iteration 3 SSE: 4.39408
+iteration 4 SSE: 4.39408
+
+RUN  18
+------
+iteration 1 SSE: 9.14229
+iteration 2 SSE: 3.41719
+iteration 3 SSE: 3.05799
+iteration 4 SSE: 3.05799
+
+RUN  19
+------
+iteration 1 SSE: 10.6709
+iteration 2 SSE: 3.92394
+iteration 3 SSE: 3.40417
+iteration 4 SSE: 3.37032
+iteration 5 SSE: 3.36374
+iteration 6 SSE: 3.36374
+
+RUN  20
+------
+iteration 1 SSE: 4.99502
+iteration 2 SSE: 1.28093
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  21
+------
+iteration 1 SSE: 6.34357
+iteration 2 SSE: 3.44716
+iteration 3 SSE: 3.36224
+iteration 4 SSE: 3.36224
+
+RUN  22
+------
+iteration 1 SSE: 14.6188
+iteration 2 SSE: 3.55909
+iteration 3 SSE: 3.43613
+iteration 4 SSE: 3.4335
+iteration 5 SSE: 3.4335
+
+RUN  23
+------
+iteration 1 SSE: 9.95367
+iteration 2 SSE: 4.27114
+iteration 3 SSE: 1.29563
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  24
+------
+iteration 1 SSE: 5.9861
+iteration 2 SSE: 1.09198
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  25
+------
+iteration 1 SSE: 9.67788
+iteration 2 SSE: 2.64861
+iteration 3 SSE: 1.00727
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  26
+------
+iteration 1 SSE: 4.10212
+iteration 2 SSE: 3.17453
+iteration 3 SSE: 3.17453
+
+RUN  27
+------
+iteration 1 SSE: 9.8096
+iteration 2 SSE: 4.60499
+iteration 3 SSE: 1.02374
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  28
+------
+iteration 1 SSE: 7.76541
+iteration 2 SSE: 4.57307
+iteration 3 SSE: 4.5273
+iteration 4 SSE: 4.47874
+iteration 5 SSE: 4.2256
+iteration 6 SSE: 3.53484
+iteration 7 SSE: 3.47223
+iteration 8 SSE: 3.47223
+
+RUN  29
+------
+iteration 1 SSE: 5.68264
+iteration 2 SSE: 1.81533
+iteration 3 SSE: 0.871741
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  30
+------
+iteration 1 SSE: 4.71194
+iteration 2 SSE: 3.16162
+iteration 3 SSE: 2.95944
+iteration 4 SSE: 1.79093
+iteration 5 SSE: 0.81777
+iteration 6 SSE: 0.807296
+iteration 7 SSE: 0.807296
+
+RUN  31
+------
+iteration 1 SSE: 6.75452
+iteration 2 SSE: 3.44851
+iteration 3 SSE: 1.81612
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  32
+------
+iteration 1 SSE: 15.2258
+iteration 2 SSE: 5.59278
+iteration 3 SSE: 4.35282
+iteration 4 SSE: 4.34854
+iteration 5 SSE: 4.34542
+iteration 6 SSE: 4.27713
+iteration 7 SSE: 3.85654
+iteration 8 SSE: 1.74177
+iteration 9 SSE: 0.807296
+iteration 10 SSE: 0.807296
+
+RUN  33
+------
+iteration 1 SSE: 6.2805
+iteration 2 SSE: 4.10393
+iteration 3 SSE: 3.83544
+iteration 4 SSE: 3.2826
+iteration 5 SSE: 3.01445
+iteration 6 SSE: 3.00107
+iteration 7 SSE: 3.00107
+
+RUN  34
+------
+iteration 1 SSE: 3.58883
+iteration 2 SSE: 3.06012
+iteration 3 SSE: 3.06012
+
+RUN  35
+------
+iteration 1 SSE: 5.47071
+iteration 2 SSE: 3.08603
+iteration 3 SSE: 3.06012
+iteration 4 SSE: 3.06012
+
+RUN  36
+------
+iteration 1 SSE: 1.53568
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  37
+------
+iteration 1 SSE: 6.70165
+iteration 2 SSE: 3.16234
+iteration 3 SSE: 3.06978
+iteration 4 SSE: 3.05767
+iteration 5 SSE: 3.05767
+
+RUN  38
+------
+iteration 1 SSE: 1.13225
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  39
+------
+iteration 1 SSE: 6.53732
+iteration 2 SSE: 3.21245
+iteration 3 SSE: 3.13334
+iteration 4 SSE: 3.06761
+iteration 5 SSE: 3.04376
+iteration 6 SSE: 3.04376
+
+RUN  40
+------
+iteration 1 SSE: 6.80117
+iteration 2 SSE: 3.37273
+iteration 3 SSE: 3.18791
+iteration 4 SSE: 3.17453
+iteration 5 SSE: 3.17453
+
+RUN  41
+------
+iteration 1 SSE: 5.08915
+iteration 2 SSE: 1.46716
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  42
+------
+iteration 1 SSE: 8.70881
+iteration 2 SSE: 5.21125
+iteration 3 SSE: 3.19848
+iteration 4 SSE: 1.43558
+iteration 5 SSE: 0.807296
+iteration 6 SSE: 0.807296
+
+RUN  43
+------
+iteration 1 SSE: 1.28396
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  44
+------
+iteration 1 SSE: 14.3278
+iteration 2 SSE: 4.50112
+iteration 3 SSE: 4.29668
+iteration 4 SSE: 4.28131
+iteration 5 SSE: 4.15315
+iteration 6 SSE: 3.28616
+iteration 7 SSE: 0.976717
+iteration 8 SSE: 0.807296
+iteration 9 SSE: 0.807296
+
+RUN  45
+------
+iteration 1 SSE: 5.43061
+iteration 2 SSE: 2.45835
+iteration 3 SSE: 0.817866
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  46
+------
+iteration 1 SSE: 4.48854
+iteration 2 SSE: 1.47729
+iteration 3 SSE: 0.871741
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  47
+------
+iteration 1 SSE: 7.55801
+iteration 2 SSE: 3.11214
+iteration 3 SSE: 3.0849
+iteration 4 SSE: 3.07977
+iteration 5 SSE: 3.06628
+iteration 6 SSE: 3.06347
+iteration 7 SSE: 3.06148
+iteration 8 SSE: 3.05767
+iteration 9 SSE: 3.05767
+
+RUN  48
+------
+iteration 1 SSE: 8.73896
+iteration 2 SSE: 3.59612
+iteration 3 SSE: 2.46598
+iteration 4 SSE: 1.03918
+iteration 5 SSE: 0.807296
+iteration 6 SSE: 0.807296
+
+RUN  49
+------
+iteration 1 SSE: 6.58188
+iteration 2 SSE: 2.20112
+iteration 3 SSE: 1.14547
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  50
+------
+iteration 1 SSE: 1.65787
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  51
+------
+iteration 1 SSE: 7.21558
+iteration 2 SSE: 4.04937
+iteration 3 SSE: 2.82365
+iteration 4 SSE: 1.14841
+iteration 5 SSE: 0.807296
+iteration 6 SSE: 0.807296
+
+RUN  52
+------
+iteration 1 SSE: 10.2232
+iteration 2 SSE: 3.04057
+iteration 3 SSE: 1.23252
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  53
+------
+iteration 1 SSE: 9.20791
+iteration 2 SSE: 4.11048
+iteration 3 SSE: 3.47223
+iteration 4 SSE: 3.47223
+
+RUN  54
+------
+iteration 1 SSE: 4.69519
+iteration 2 SSE: 1.27855
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  55
+------
+iteration 1 SSE: 3.86761
+iteration 2 SSE: 3.04094
+iteration 3 SSE: 3.01127
+iteration 4 SSE: 2.86026
+iteration 5 SSE: 1.85382
+iteration 6 SSE: 0.807296
+iteration 7 SSE: 0.807296
+
+RUN  56
+------
+iteration 1 SSE: 5.25326
+iteration 2 SSE: 1.83064
+iteration 3 SSE: 0.871741
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  57
+------
+iteration 1 SSE: 7.43784
+iteration 2 SSE: 3.08603
+iteration 3 SSE: 3.06012
+iteration 4 SSE: 3.06012
+
+RUN  58
+------
+iteration 1 SSE: 9.068
+iteration 2 SSE: 7.70523
+iteration 3 SSE: 5.72848
+iteration 4 SSE: 4.34485
+iteration 5 SSE: 4.23065
+iteration 6 SSE: 3.68377
+iteration 7 SSE: 3.47223
+iteration 8 SSE: 3.47223
+
+RUN  59
+------
+iteration 1 SSE: 2.11213
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  60
+------
+iteration 1 SSE: 7.38756
+iteration 2 SSE: 1.58274
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  61
+------
+iteration 1 SSE: 4.48508
+iteration 2 SSE: 1.71695
+iteration 3 SSE: 0.81777
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  62
+------
+iteration 1 SSE: 9.09267
+iteration 2 SSE: 3.72335
+iteration 3 SSE: 3.23017
+iteration 4 SSE: 3.17453
+iteration 5 SSE: 3.17453
+
+RUN  63
+------
+iteration 1 SSE: 7.90428
+iteration 2 SSE: 3.6394
+iteration 3 SSE: 1.36127
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  64
+------
+iteration 1 SSE: 6.53852
+iteration 2 SSE: 3.3898
+iteration 3 SSE: 3.36374
+iteration 4 SSE: 3.36374
+
+RUN  65
+------
+iteration 1 SSE: 13.9012
+iteration 2 SSE: 4.23594
+iteration 3 SSE: 0.908883
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  66
+------
+iteration 1 SSE: 4.34138
+iteration 2 SSE: 3.07122
+iteration 3 SSE: 3.06148
+iteration 4 SSE: 3.05767
+iteration 5 SSE: 3.05767
+
+RUN  67
+------
+iteration 1 SSE: 7.43101
+iteration 2 SSE: 1.63081
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  68
+------
+iteration 1 SSE: 7.31031
+iteration 2 SSE: 2.35937
+iteration 3 SSE: 0.882215
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  69
+------
+iteration 1 SSE: 6.57291
+iteration 2 SSE: 4.07945
+iteration 3 SSE: 3.76689
+iteration 4 SSE: 3.17463
+iteration 5 SSE: 3.01144
+iteration 6 SSE: 2.99806
+iteration 7 SSE: 2.99806
+
+RUN  70
+------
+iteration 1 SSE: 5.18049
+iteration 2 SSE: 1.83063
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  71
+------
+iteration 1 SSE: 6.95914
+iteration 2 SSE: 3.37461
+iteration 3 SSE: 3.06012
+iteration 4 SSE: 3.06012
+
+RUN  72
+------
+iteration 1 SSE: 7.43404
+iteration 2 SSE: 3.48568
+iteration 3 SSE: 1.59978
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  73
+------
+iteration 1 SSE: 4.35613
+iteration 2 SSE: 3.04512
+iteration 3 SSE: 3.04512
+
+RUN  74
+------
+iteration 1 SSE: 6.73668
+iteration 2 SSE: 2.34202
+iteration 3 SSE: 0.81852
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  75
+------
+iteration 1 SSE: 5.38743
+iteration 2 SSE: 4.31222
+iteration 3 SSE: 4.04046
+iteration 4 SSE: 2.07345
+iteration 5 SSE: 0.807296
+iteration 6 SSE: 0.807296
+
+RUN  76
+------
+iteration 1 SSE: 3.82141
+iteration 2 SSE: 3.08865
+iteration 3 SSE: 3.07478
+iteration 4 SSE: 3.06628
+iteration 5 SSE: 3.06347
+iteration 6 SSE: 3.06148
+iteration 7 SSE: 3.05767
+iteration 8 SSE: 3.05767
+
+RUN  77
+------
+iteration 1 SSE: 3.4955
+iteration 2 SSE: 3.00107
+iteration 3 SSE: 3.00107
+
+RUN  78
+------
+iteration 1 SSE: 5.68442
+iteration 2 SSE: 2.77357
+iteration 3 SSE: 1.07079
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  79
+------
+iteration 1 SSE: 8.47935
+iteration 2 SSE: 7.21849
+iteration 3 SSE: 3.87538
+iteration 4 SSE: 3.04512
+iteration 5 SSE: 3.04512
+
+RUN  80
+------
+iteration 1 SSE: 4.11878
+iteration 2 SSE: 1.72243
+iteration 3 SSE: 0.81777
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  81
+------
+iteration 1 SSE: 6.79239
+iteration 2 SSE: 3.08457
+iteration 3 SSE: 3.05767
+iteration 4 SSE: 3.05767
+
+RUN  82
+------
+iteration 1 SSE: 8.01804
+iteration 2 SSE: 4.41311
+iteration 3 SSE: 4.41311
+
+RUN  83
+------
+iteration 1 SSE: 6.26134
+iteration 2 SSE: 3.59707
+iteration 3 SSE: 3.47223
+iteration 4 SSE: 3.47223
+
+RUN  84
+------
+iteration 1 SSE: 6.704
+iteration 2 SSE: 3.63444
+iteration 3 SSE: 3.36224
+iteration 4 SSE: 3.36224
+
+RUN  85
+------
+iteration 1 SSE: 4.42438
+iteration 2 SSE: 3.17453
+iteration 3 SSE: 3.17453
+
+RUN  86
+------
+iteration 1 SSE: 4.30562
+iteration 2 SSE: 1.87598
+iteration 3 SSE: 0.81777
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  87
+------
+iteration 1 SSE: 5.25214
+iteration 2 SSE: 0.960333
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  88
+------
+iteration 1 SSE: 1.07685
+iteration 2 SSE: 0.807296
+iteration 3 SSE: 0.807296
+
+RUN  89
+------
+iteration 1 SSE: 16.2901
+iteration 2 SSE: 2.93022
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  90
+------
+iteration 1 SSE: 10.4967
+iteration 2 SSE: 1.92087
+iteration 3 SSE: 0.81852
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  91
+------
+iteration 1 SSE: 14.9807
+iteration 2 SSE: 4.88347
+iteration 3 SSE: 4.35643
+iteration 4 SSE: 4.31053
+iteration 5 SSE: 3.95064
+iteration 6 SSE: 1.85125
+iteration 7 SSE: 0.807296
+iteration 8 SSE: 0.807296
+
+RUN  92
+------
+iteration 1 SSE: 3.90534
+iteration 2 SSE: 3.06025
+iteration 3 SSE: 3.05893
+iteration 4 SSE: 3.05799
+iteration 5 SSE: 3.05799
+
+RUN  93
+------
+iteration 1 SSE: 5.85941
+iteration 2 SSE: 3.15009
+iteration 3 SSE: 3.11541
+iteration 4 SSE: 3.06677
+iteration 5 SSE: 3.05869
+iteration 6 SSE: 3.05767
+iteration 7 SSE: 3.05767
+
+RUN  94
+------
+iteration 1 SSE: 6.52907
+iteration 2 SSE: 3.37645
+iteration 3 SSE: 3.14617
+iteration 4 SSE: 3.13173
+iteration 5 SSE: 3.10819
+iteration 6 SSE: 3.03261
+iteration 7 SSE: 3.00107
+iteration 8 SSE: 3.00107
+
+RUN  95
+------
+iteration 1 SSE: 2.03357
+iteration 2 SSE: 0.931007
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  96
+------
+iteration 1 SSE: 7.05154
+iteration 2 SSE: 3.17645
+iteration 3 SSE: 3.07887
+iteration 4 SSE: 3.0637
+iteration 5 SSE: 3.0637
+
+RUN  97
+------
+iteration 1 SSE: 7.04395
+iteration 2 SSE: 3.81284
+iteration 3 SSE: 3.37964
+iteration 4 SSE: 3.36333
+iteration 5 SSE: 3.36224
+iteration 6 SSE: 3.36224
+
+RUN  98
+------
+iteration 1 SSE: 7.91617
+iteration 2 SSE: 2.73609
+iteration 3 SSE: 0.926993
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296
+
+RUN  99
+------
+iteration 1 SSE: 3.70862
+iteration 2 SSE: 1.03774
+iteration 3 SSE: 0.807296
+iteration 4 SSE: 0.807296
+
+RUN  100
+------
+iteration 1 SSE: 5.03442
+iteration 2 SSE: 1.19443
+iteration 3 SSE: 0.815159
+iteration 4 SSE: 0.807296
+iteration 5 SSE: 0.807296

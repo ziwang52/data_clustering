@@ -1,0 +1,1031 @@
+
+RUN  1
+------
+iteration 1 SSE: 1063.48
+iteration 2 SSE: 738.933
+iteration 3 SSE: 707.045
+iteration 4 SSE: 673.366
+iteration 5 SSE: 640.759
+iteration 6 SSE: 631.34
+iteration 7 SSE: 629.317
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  2
+------
+iteration 1 SSE: 2202.57
+iteration 2 SSE: 688.229
+iteration 3 SSE: 643.065
+iteration 4 SSE: 632.395
+iteration 5 SSE: 629.471
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  3
+------
+iteration 1 SSE: 955.138
+iteration 2 SSE: 738.784
+iteration 3 SSE: 660.275
+iteration 4 SSE: 635.228
+iteration 5 SSE: 629.739
+iteration 6 SSE: 628.978
+iteration 7 SSE: 628.896
+iteration 8 SSE: 628.896
+
+RUN  4
+------
+iteration 1 SSE: 769.447
+iteration 2 SSE: 637.592
+iteration 3 SSE: 629.542
+iteration 4 SSE: 628.936
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  5
+------
+iteration 1 SSE: 2215.31
+iteration 2 SSE: 716.016
+iteration 3 SSE: 651.142
+iteration 4 SSE: 632.191
+iteration 5 SSE: 629.69
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  6
+------
+iteration 1 SSE: 900.209
+iteration 2 SSE: 654.547
+iteration 3 SSE: 634.041
+iteration 4 SSE: 629.69
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  7
+------
+iteration 1 SSE: 948.42
+iteration 2 SSE: 805.798
+iteration 3 SSE: 787.811
+iteration 4 SSE: 717.969
+iteration 5 SSE: 637.122
+iteration 6 SSE: 630.143
+iteration 7 SSE: 628.978
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  8
+------
+iteration 1 SSE: 2089.26
+iteration 2 SSE: 773.559
+iteration 3 SSE: 687.376
+iteration 4 SSE: 630.812
+iteration 5 SSE: 628.929
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  9
+------
+iteration 1 SSE: 1828.17
+iteration 2 SSE: 655.379
+iteration 3 SSE: 632.918
+iteration 4 SSE: 629.435
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  10
+------
+iteration 1 SSE: 1212.14
+iteration 2 SSE: 643.681
+iteration 3 SSE: 629.871
+iteration 4 SSE: 628.978
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  11
+------
+iteration 1 SSE: 903.784
+iteration 2 SSE: 740.786
+iteration 3 SSE: 662.705
+iteration 4 SSE: 636.147
+iteration 5 SSE: 629.739
+iteration 6 SSE: 628.978
+iteration 7 SSE: 628.896
+iteration 8 SSE: 628.896
+
+RUN  12
+------
+iteration 1 SSE: 1050.78
+iteration 2 SSE: 677.324
+iteration 3 SSE: 633.539
+iteration 4 SSE: 629.402
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  13
+------
+iteration 1 SSE: 980.541
+iteration 2 SSE: 752.5
+iteration 3 SSE: 668.242
+iteration 4 SSE: 635.159
+iteration 5 SSE: 629.76
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  14
+------
+iteration 1 SSE: 846.299
+iteration 2 SSE: 671.069
+iteration 3 SSE: 634.126
+iteration 4 SSE: 629.542
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  15
+------
+iteration 1 SSE: 1106.46
+iteration 2 SSE: 734.455
+iteration 3 SSE: 651.574
+iteration 4 SSE: 631.859
+iteration 5 SSE: 629.085
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  16
+------
+iteration 1 SSE: 1024.31
+iteration 2 SSE: 786.462
+iteration 3 SSE: 663.826
+iteration 4 SSE: 633.718
+iteration 5 SSE: 629.435
+iteration 6 SSE: 628.936
+iteration 7 SSE: 628.896
+iteration 8 SSE: 628.896
+
+RUN  17
+------
+iteration 1 SSE: 1258.1
+iteration 2 SSE: 769.732
+iteration 3 SSE: 763.15
+iteration 4 SSE: 754.953
+iteration 5 SSE: 722.301
+iteration 6 SSE: 656.553
+iteration 7 SSE: 632.853
+iteration 8 SSE: 629.989
+iteration 9 SSE: 628.903
+iteration 10 SSE: 628.903
+
+RUN  18
+------
+iteration 1 SSE: 1605.5
+iteration 2 SSE: 730.579
+iteration 3 SSE: 638.55
+iteration 4 SSE: 630.644
+iteration 5 SSE: 629.021
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  19
+------
+iteration 1 SSE: 1239.39
+iteration 2 SSE: 769.45
+iteration 3 SSE: 752.207
+iteration 4 SSE: 716.425
+iteration 5 SSE: 646.701
+iteration 6 SSE: 630.884
+iteration 7 SSE: 628.991
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  20
+------
+iteration 1 SSE: 1182.13
+iteration 2 SSE: 830.947
+iteration 3 SSE: 828.019
+iteration 4 SSE: 820.645
+iteration 5 SSE: 779.375
+iteration 6 SSE: 681.716
+iteration 7 SSE: 639.463
+iteration 8 SSE: 629.739
+iteration 9 SSE: 628.978
+iteration 10 SSE: 628.896
+iteration 11 SSE: 628.896
+
+RUN  21
+------
+iteration 1 SSE: 990.544
+iteration 2 SSE: 663.167
+iteration 3 SSE: 635.326
+iteration 4 SSE: 629.435
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  22
+------
+iteration 1 SSE: 1001.44
+iteration 2 SSE: 826.02
+iteration 3 SSE: 822.979
+iteration 4 SSE: 821.641
+iteration 5 SSE: 821.641
+
+RUN  23
+------
+iteration 1 SSE: 984
+iteration 2 SSE: 685.602
+iteration 3 SSE: 639.014
+iteration 4 SSE: 629.739
+iteration 5 SSE: 628.978
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  24
+------
+iteration 1 SSE: 1941.82
+iteration 2 SSE: 821.645
+iteration 3 SSE: 809.853
+iteration 4 SSE: 777.935
+iteration 5 SSE: 671.976
+iteration 6 SSE: 633.102
+iteration 7 SSE: 629.471
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  25
+------
+iteration 1 SSE: 1182.07
+iteration 2 SSE: 687.968
+iteration 3 SSE: 633.702
+iteration 4 SSE: 629.557
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  26
+------
+iteration 1 SSE: 1074.83
+iteration 2 SSE: 729.757
+iteration 3 SSE: 703.849
+iteration 4 SSE: 682.552
+iteration 5 SSE: 646.873
+iteration 6 SSE: 634.041
+iteration 7 SSE: 629.69
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  27
+------
+iteration 1 SSE: 1015.08
+iteration 2 SSE: 717.786
+iteration 3 SSE: 642.638
+iteration 4 SSE: 630.26
+iteration 5 SSE: 628.933
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  28
+------
+iteration 1 SSE: 925.774
+iteration 2 SSE: 643.004
+iteration 3 SSE: 631.328
+iteration 4 SSE: 629.317
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  29
+------
+iteration 1 SSE: 913.818
+iteration 2 SSE: 702.857
+iteration 3 SSE: 683.764
+iteration 4 SSE: 651.263
+iteration 5 SSE: 634.326
+iteration 6 SSE: 629.69
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  30
+------
+iteration 1 SSE: 926.975
+iteration 2 SSE: 667.13
+iteration 3 SSE: 633.762
+iteration 4 SSE: 629.435
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  31
+------
+iteration 1 SSE: 1531.54
+iteration 2 SSE: 827.497
+iteration 3 SSE: 819.039
+iteration 4 SSE: 802.637
+iteration 5 SSE: 722.417
+iteration 6 SSE: 642.91
+iteration 7 SSE: 631.448
+iteration 8 SSE: 629.085
+iteration 9 SSE: 628.903
+iteration 10 SSE: 628.903
+
+RUN  32
+------
+iteration 1 SSE: 1852.58
+iteration 2 SSE: 755.814
+iteration 3 SSE: 674.645
+iteration 4 SSE: 638.328
+iteration 5 SSE: 630.803
+iteration 6 SSE: 629.021
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  33
+------
+iteration 1 SSE: 2433.72
+iteration 2 SSE: 666.18
+iteration 3 SSE: 636.902
+iteration 4 SSE: 630.349
+iteration 5 SSE: 628.991
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  34
+------
+iteration 1 SSE: 926.377
+iteration 2 SSE: 652.396
+iteration 3 SSE: 632.241
+iteration 4 SSE: 629.126
+iteration 5 SSE: 628.915
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  35
+------
+iteration 1 SSE: 1334.04
+iteration 2 SSE: 642.003
+iteration 3 SSE: 629.379
+iteration 4 SSE: 628.903
+iteration 5 SSE: 628.903
+
+RUN  36
+------
+iteration 1 SSE: 799.754
+iteration 2 SSE: 650.117
+iteration 3 SSE: 634.424
+iteration 4 SSE: 629.69
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  37
+------
+iteration 1 SSE: 855.934
+iteration 2 SSE: 655.937
+iteration 3 SSE: 633.117
+iteration 4 SSE: 629.435
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  38
+------
+iteration 1 SSE: 1220.33
+iteration 2 SSE: 694.657
+iteration 3 SSE: 636.979
+iteration 4 SSE: 629.369
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  39
+------
+iteration 1 SSE: 1053.79
+iteration 2 SSE: 682.902
+iteration 3 SSE: 632.924
+iteration 4 SSE: 628.915
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  40
+------
+iteration 1 SSE: 1180.42
+iteration 2 SSE: 689.546
+iteration 3 SSE: 635.281
+iteration 4 SSE: 630.015
+iteration 5 SSE: 628.929
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  41
+------
+iteration 1 SSE: 882.713
+iteration 2 SSE: 805.441
+iteration 3 SSE: 780.864
+iteration 4 SSE: 705.522
+iteration 5 SSE: 635.199
+iteration 6 SSE: 629.904
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  42
+------
+iteration 1 SSE: 1047.18
+iteration 2 SSE: 806.068
+iteration 3 SSE: 746.056
+iteration 4 SSE: 692.224
+iteration 5 SSE: 644.773
+iteration 6 SSE: 631.764
+iteration 7 SSE: 629.085
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  43
+------
+iteration 1 SSE: 827.789
+iteration 2 SSE: 685.084
+iteration 3 SSE: 636.852
+iteration 4 SSE: 629.542
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  44
+------
+iteration 1 SSE: 1630.87
+iteration 2 SSE: 761.352
+iteration 3 SSE: 672.074
+iteration 4 SSE: 638.742
+iteration 5 SSE: 631.161
+iteration 6 SSE: 629.172
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  45
+------
+iteration 1 SSE: 1593.56
+iteration 2 SSE: 677.329
+iteration 3 SSE: 641.474
+iteration 4 SSE: 632.246
+iteration 5 SSE: 629.172
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  46
+------
+iteration 1 SSE: 857.905
+iteration 2 SSE: 642.571
+iteration 3 SSE: 629.846
+iteration 4 SSE: 628.936
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  47
+------
+iteration 1 SSE: 1020.59
+iteration 2 SSE: 640.097
+iteration 3 SSE: 629.619
+iteration 4 SSE: 628.936
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  48
+------
+iteration 1 SSE: 1294.64
+iteration 2 SSE: 692.4
+iteration 3 SSE: 632.041
+iteration 4 SSE: 628.978
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  49
+------
+iteration 1 SSE: 814.282
+iteration 2 SSE: 666.077
+iteration 3 SSE: 636.147
+iteration 4 SSE: 629.739
+iteration 5 SSE: 628.978
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  50
+------
+iteration 1 SSE: 1611.26
+iteration 2 SSE: 790.616
+iteration 3 SSE: 776.839
+iteration 4 SSE: 734.924
+iteration 5 SSE: 636.536
+iteration 6 SSE: 630.336
+iteration 7 SSE: 629.021
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  51
+------
+iteration 1 SSE: 2051.09
+iteration 2 SSE: 688.712
+iteration 3 SSE: 633.694
+iteration 4 SSE: 629.471
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  52
+------
+iteration 1 SSE: 918.24
+iteration 2 SSE: 717.079
+iteration 3 SSE: 639.749
+iteration 4 SSE: 630.526
+iteration 5 SSE: 629.021
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  53
+------
+iteration 1 SSE: 1222.36
+iteration 2 SSE: 824.227
+iteration 3 SSE: 824.227
+
+RUN  54
+------
+iteration 1 SSE: 1168.36
+iteration 2 SSE: 755.481
+iteration 3 SSE: 657.567
+iteration 4 SSE: 632.151
+iteration 5 SSE: 629.038
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  55
+------
+iteration 1 SSE: 876.624
+iteration 2 SSE: 794.986
+iteration 3 SSE: 670.453
+iteration 4 SSE: 632.087
+iteration 5 SSE: 629.085
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  56
+------
+iteration 1 SSE: 1430.97
+iteration 2 SSE: 787.917
+iteration 3 SSE: 698.625
+iteration 4 SSE: 638.095
+iteration 5 SSE: 630.143
+iteration 6 SSE: 628.978
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  57
+------
+iteration 1 SSE: 1087.18
+iteration 2 SSE: 663.04
+iteration 3 SSE: 632.044
+iteration 4 SSE: 629.337
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  58
+------
+iteration 1 SSE: 1144.33
+iteration 2 SSE: 661.463
+iteration 3 SSE: 635.536
+iteration 4 SSE: 630.143
+iteration 5 SSE: 628.978
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  59
+------
+iteration 1 SSE: 1064.52
+iteration 2 SSE: 640.849
+iteration 3 SSE: 629.648
+iteration 4 SSE: 628.945
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  60
+------
+iteration 1 SSE: 1279.51
+iteration 2 SSE: 756.635
+iteration 3 SSE: 727.396
+iteration 4 SSE: 694.547
+iteration 5 SSE: 651.756
+iteration 6 SSE: 633.776
+iteration 7 SSE: 629.989
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  61
+------
+iteration 1 SSE: 1022.96
+iteration 2 SSE: 664.408
+iteration 3 SSE: 636
+iteration 4 SSE: 630.112
+iteration 5 SSE: 628.929
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  62
+------
+iteration 1 SSE: 1249.4
+iteration 2 SSE: 701.428
+iteration 3 SSE: 642.124
+iteration 4 SSE: 629.846
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  63
+------
+iteration 1 SSE: 1937.79
+iteration 2 SSE: 836.19
+iteration 3 SSE: 836.19
+
+RUN  64
+------
+iteration 1 SSE: 943.579
+iteration 2 SSE: 660.609
+iteration 3 SSE: 633.193
+iteration 4 SSE: 629.435
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  65
+------
+iteration 1 SSE: 933.85
+iteration 2 SSE: 635.205
+iteration 3 SSE: 629.237
+iteration 4 SSE: 628.903
+iteration 5 SSE: 628.903
+
+RUN  66
+------
+iteration 1 SSE: 776.162
+iteration 2 SSE: 631.678
+iteration 3 SSE: 628.903
+iteration 4 SSE: 628.903
+
+RUN  67
+------
+iteration 1 SSE: 991.563
+iteration 2 SSE: 734.649
+iteration 3 SSE: 658.952
+iteration 4 SSE: 634.47
+iteration 5 SSE: 629.739
+iteration 6 SSE: 628.978
+iteration 7 SSE: 628.896
+iteration 8 SSE: 628.896
+
+RUN  68
+------
+iteration 1 SSE: 811.647
+iteration 2 SSE: 631.755
+iteration 3 SSE: 628.945
+iteration 4 SSE: 628.896
+iteration 5 SSE: 628.896
+
+RUN  69
+------
+iteration 1 SSE: 958.368
+iteration 2 SSE: 673.797
+iteration 3 SSE: 629.115
+iteration 4 SSE: 628.896
+iteration 5 SSE: 628.896
+
+RUN  70
+------
+iteration 1 SSE: 1109.09
+iteration 2 SSE: 823.177
+iteration 3 SSE: 817.157
+iteration 4 SSE: 768.072
+iteration 5 SSE: 669.793
+iteration 6 SSE: 632.906
+iteration 7 SSE: 629.435
+iteration 8 SSE: 628.936
+iteration 9 SSE: 628.896
+iteration 10 SSE: 628.896
+
+RUN  71
+------
+iteration 1 SSE: 1105.48
+iteration 2 SSE: 819.721
+iteration 3 SSE: 809.863
+iteration 4 SSE: 770.465
+iteration 5 SSE: 658.921
+iteration 6 SSE: 635.45
+iteration 7 SSE: 630.143
+iteration 8 SSE: 628.978
+iteration 9 SSE: 628.903
+iteration 10 SSE: 628.903
+
+RUN  72
+------
+iteration 1 SSE: 968.501
+iteration 2 SSE: 778.446
+iteration 3 SSE: 773.561
+iteration 4 SSE: 766.95
+iteration 5 SSE: 762.154
+iteration 6 SSE: 750.877
+iteration 7 SSE: 708.153
+iteration 8 SSE: 646.692
+iteration 9 SSE: 631.635
+iteration 10 SSE: 629.516
+iteration 11 SSE: 628.903
+iteration 12 SSE: 628.903
+
+RUN  73
+------
+iteration 1 SSE: 801.83
+iteration 2 SSE: 634.1
+iteration 3 SSE: 629.041
+iteration 4 SSE: 628.896
+iteration 5 SSE: 628.896
+
+RUN  74
+------
+iteration 1 SSE: 990.149
+iteration 2 SSE: 665.527
+iteration 3 SSE: 632.728
+iteration 4 SSE: 629.337
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  75
+------
+iteration 1 SSE: 1070.06
+iteration 2 SSE: 652.87
+iteration 3 SSE: 633.166
+iteration 4 SSE: 629.77
+iteration 5 SSE: 628.903
+iteration 6 SSE: 628.903
+
+RUN  76
+------
+iteration 1 SSE: 882.393
+iteration 2 SSE: 768.714
+iteration 3 SSE: 659.202
+iteration 4 SSE: 636.347
+iteration 5 SSE: 630.143
+iteration 6 SSE: 628.978
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  77
+------
+iteration 1 SSE: 1107.52
+iteration 2 SSE: 796.183
+iteration 3 SSE: 759.878
+iteration 4 SSE: 703.309
+iteration 5 SSE: 636.662
+iteration 6 SSE: 629.548
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  78
+------
+iteration 1 SSE: 861.385
+iteration 2 SSE: 775.819
+iteration 3 SSE: 771.783
+iteration 4 SSE: 766.154
+iteration 5 SSE: 762.154
+iteration 6 SSE: 750.877
+iteration 7 SSE: 708.153
+iteration 8 SSE: 646.692
+iteration 9 SSE: 631.635
+iteration 10 SSE: 629.516
+iteration 11 SSE: 628.903
+iteration 12 SSE: 628.903
+
+RUN  79
+------
+iteration 1 SSE: 1242.44
+iteration 2 SSE: 645.15
+iteration 3 SSE: 629.113
+iteration 4 SSE: 628.903
+iteration 5 SSE: 628.903
+
+RUN  80
+------
+iteration 1 SSE: 1034.75
+iteration 2 SSE: 748.173
+iteration 3 SSE: 657.183
+iteration 4 SSE: 632.36
+iteration 5 SSE: 629.085
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  81
+------
+iteration 1 SSE: 3238.98
+iteration 2 SSE: 753.27
+iteration 3 SSE: 665.512
+iteration 4 SSE: 635.41
+iteration 5 SSE: 630.29
+iteration 6 SSE: 628.978
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  82
+------
+iteration 1 SSE: 1249.58
+iteration 2 SSE: 821.046
+iteration 3 SSE: 801.88
+iteration 4 SSE: 774.811
+iteration 5 SSE: 707.371
+iteration 6 SSE: 631.294
+iteration 7 SSE: 628.989
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  83
+------
+iteration 1 SSE: 1086.35
+iteration 2 SSE: 764.552
+iteration 3 SSE: 744.642
+iteration 4 SSE: 709.705
+iteration 5 SSE: 665.276
+iteration 6 SSE: 637.373
+iteration 7 SSE: 630.537
+iteration 8 SSE: 628.991
+iteration 9 SSE: 628.903
+iteration 10 SSE: 628.903
+
+RUN  84
+------
+iteration 1 SSE: 1924.61
+iteration 2 SSE: 817.645
+iteration 3 SSE: 797.581
+iteration 4 SSE: 684.942
+iteration 5 SSE: 637.614
+iteration 6 SSE: 630.143
+iteration 7 SSE: 628.978
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  85
+------
+iteration 1 SSE: 966.232
+iteration 2 SSE: 812.062
+iteration 3 SSE: 801.841
+iteration 4 SSE: 785.505
+iteration 5 SSE: 777.491
+iteration 6 SSE: 747.132
+iteration 7 SSE: 641.487
+iteration 8 SSE: 631.129
+iteration 9 SSE: 629.021
+iteration 10 SSE: 628.903
+iteration 11 SSE: 628.903
+
+RUN  86
+------
+iteration 1 SSE: 934.569
+iteration 2 SSE: 768.005
+iteration 3 SSE: 762.657
+iteration 4 SSE: 750.69
+iteration 5 SSE: 710.031
+iteration 6 SSE: 648.936
+iteration 7 SSE: 632.22
+iteration 8 SSE: 629.516
+iteration 9 SSE: 628.903
+iteration 10 SSE: 628.903
+
+RUN  87
+------
+iteration 1 SSE: 1138.01
+iteration 2 SSE: 710.689
+iteration 3 SSE: 638.605
+iteration 4 SSE: 630.778
+iteration 5 SSE: 629.082
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  88
+------
+iteration 1 SSE: 846.271
+iteration 2 SSE: 637.23
+iteration 3 SSE: 629.739
+iteration 4 SSE: 628.978
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  89
+------
+iteration 1 SSE: 901.119
+iteration 2 SSE: 693.653
+iteration 3 SSE: 637.786
+iteration 4 SSE: 629.512
+iteration 5 SSE: 628.978
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  90
+------
+iteration 1 SSE: 1468.96
+iteration 2 SSE: 827.595
+iteration 3 SSE: 822.24
+iteration 4 SSE: 814.575
+iteration 5 SSE: 807.154
+iteration 6 SSE: 791.72
+iteration 7 SSE: 734.785
+iteration 8 SSE: 641.196
+iteration 9 SSE: 630.587
+iteration 10 SSE: 629.021
+iteration 11 SSE: 628.903
+iteration 12 SSE: 628.903
+
+RUN  91
+------
+iteration 1 SSE: 964.175
+iteration 2 SSE: 828.078
+iteration 3 SSE: 828.078
+
+RUN  92
+------
+iteration 1 SSE: 892.744
+iteration 2 SSE: 683.004
+iteration 3 SSE: 638.636
+iteration 4 SSE: 629.739
+iteration 5 SSE: 628.978
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  93
+------
+iteration 1 SSE: 863.446
+iteration 2 SSE: 670.443
+iteration 3 SSE: 637.402
+iteration 4 SSE: 629.739
+iteration 5 SSE: 628.978
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  94
+------
+iteration 1 SSE: 916.61
+iteration 2 SSE: 818.63
+iteration 3 SSE: 787.674
+iteration 4 SSE: 671.261
+iteration 5 SSE: 639.622
+iteration 6 SSE: 631.758
+iteration 7 SSE: 629.085
+iteration 8 SSE: 628.903
+iteration 9 SSE: 628.903
+
+RUN  95
+------
+iteration 1 SSE: 1225.21
+iteration 2 SSE: 681.405
+iteration 3 SSE: 645.298
+iteration 4 SSE: 633.26
+iteration 5 SSE: 629.69
+iteration 6 SSE: 628.903
+iteration 7 SSE: 628.903
+
+RUN  96
+------
+iteration 1 SSE: 838.692
+iteration 2 SSE: 660.374
+iteration 3 SSE: 633.112
+iteration 4 SSE: 629.435
+iteration 5 SSE: 628.936
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  97
+------
+iteration 1 SSE: 1195.16
+iteration 2 SSE: 724.027
+iteration 3 SSE: 643.734
+iteration 4 SSE: 630.364
+iteration 5 SSE: 628.916
+iteration 6 SSE: 628.896
+iteration 7 SSE: 628.896
+
+RUN  98
+------
+iteration 1 SSE: 1485.17
+iteration 2 SSE: 676.297
+iteration 3 SSE: 632.151
+iteration 4 SSE: 628.945
+iteration 5 SSE: 628.896
+iteration 6 SSE: 628.896
+
+RUN  99
+------
+iteration 1 SSE: 1144.77
+iteration 2 SSE: 774.71
+iteration 3 SSE: 699.828
+iteration 4 SSE: 649.978
+iteration 5 SSE: 633.296
+iteration 6 SSE: 629.471
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
+
+RUN  100
+------
+iteration 1 SSE: 1263.5
+iteration 2 SSE: 807.857
+iteration 3 SSE: 788.751
+iteration 4 SSE: 729.021
+iteration 5 SSE: 634.245
+iteration 6 SSE: 629.391
+iteration 7 SSE: 628.903
+iteration 8 SSE: 628.903
