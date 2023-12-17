@@ -1,16 +1,16 @@
 # data_clustering
 implement data clustering by using k meaning 
-Normalization 
+Normalization-- 
     Min-max
-    Z_score
-Initialization 
+    Z_score,
+Initialization-- 
     Random select 
     Random partition 
-    Maximin
-Internal validation 
+    Maximin, 
+Internal validation --
     calinski_Harabasz
     silhouette
     davies_Bouldin
-    Dunn
+    Dunn, 
 external Validation function
 
